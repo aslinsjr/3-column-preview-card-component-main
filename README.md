@@ -19,7 +19,7 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 
 ### Screenshot
 
-![3-column preview card component](images\2023-10-13-09-33-aslinsjr.github.io.png)
+![3-column preview card component](images/2023-10-13-09-33-aslinsjr.github.io.png)
 
 ### Links
 
